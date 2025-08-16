@@ -7,6 +7,15 @@ Analysis of sales transactions (2014–2016) to identify profitable customer seg
 
 ---
 
+## Power BI Dashboards
+
+[Dashboard_1](Power_BI/Screenshots/Dashboard_1.png)
+[Dashboard_1](Power_BI/Screenshots/Dashboard_2.png)
+[Dashboard_1](Power_BI/Screenshots/Dashboard_3.png)
+[Dashboard_1](Power_BI/Screenshots/Dashboard_4.png)
+
+---
+
 ## Problem Statement
 A retail company wanted to answer key marketing questions:
 - Which customer segments are most profitable and should be targeted more aggressively?
@@ -50,12 +59,13 @@ A retail company wanted to answer key marketing questions:
 - Leverage Corporate’s recent profit growth while maintaining Consumer engagement.  
 - Focus discounts on price-sensitive items; reconsider discounts for Copiers, Accessories, Machines.  
 - Prioritize **Q4 (November)** promotions in Office Supplies, Furniture, Technology.  
-- Test Same Day delivery promotions in top cities or optimize existing shipping classes.  
+- Test Same Day delivery promotions in top cities or optimize existing shipping classes.
+
+View the whole findings and recommendations in the [Word file](Head of Marketing.docx) 
 
 ---
 
 ## Project Files  
-- 📊 Power BI Dashboard  
-- 🗂 Excel Data Cleaning Workbook  
-- 🛠 SQL Queries  
-- 📄 Raw Dataset  
+- [Power BI Dashboard](Power_BI/Power_BI_Report.pbix)
+- [Excel Data Wrangling](Excel_Normalization)
+- [Raw Data](Raw_Data.csv)
