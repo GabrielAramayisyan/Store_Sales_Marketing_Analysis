@@ -9,10 +9,10 @@ Analysis of sales transactions (2014–2016) to identify profitable customer seg
 
 ## Power BI Dashboards
 
-[Dashboard_1](Power_BI/Screenshots/Dashboard_1.png)
-[Dashboard_1](Power_BI/Screenshots/Dashboard_2.png)
-[Dashboard_1](Power_BI/Screenshots/Dashboard_3.png)
-[Dashboard_1](Power_BI/Screenshots/Dashboard_4.png)
+![Dashboard_1](Power_BI/Screenshots/Dashboard_1.png)
+![Dashboard_1](Power_BI/Screenshots/Dashboard_2.png)
+![Dashboard_1](Power_BI/Screenshots/Dashboard_3.png)
+![Dashboard_1](Power_BI/Screenshots/Dashboard_4.png)
 
 ---
 
