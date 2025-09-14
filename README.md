@@ -61,7 +61,7 @@ A retail company wanted to answer key marketing questions:
 - Prioritize **Q4 (November)** promotions in Office Supplies, Furniture, Technology
 - Test Same Day delivery promotions in top cities or optimize existing shipping classes
 
-View the whole findings and recommendations in the [Word file](Head of Marketing.docx) 
+View the whole findings and recommendations in the [Word file](Head%of%Marketing.docx) 
 
 ---
 
