@@ -1,6 +1,6 @@
 # Store Sales Marketing Analysis  
 
-## Overview  
+## Project Overview  
 Analysis of sales transactions (2014–2016) to identify profitable customer segments, measure the effectiveness of discount campaigns, uncover seasonal trends, and evaluate shipping mode preferences
 
 **Tools Used:** Excel, Power BI  
